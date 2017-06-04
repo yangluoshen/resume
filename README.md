@@ -8,7 +8,6 @@
 * 微信： yangluoshen
 * 学历： 华中科技大学-软件工程-本科
 * 工作年限： 2年
-* 期望薪资： 税前月薪16k~20k
 * 期望职位： Linux c/c++开发工程师
 * github: [https://github.com/yangluoshen](https://github.com/yangluoshen)
 
@@ -22,7 +21,7 @@
 * PCM 系统通知管理业务代码开发
   * PCM 系统支持以短信的形式与终端用户交互，这个过程称作通知管理。
   * 此项目中，我负责PCM系统80％通知管理的业务代码开发；负责SMPP客户端的协议栈维护。
-  * 收获：掌握了一些使用 **tcpdump** 和 **wireshark** 等网络分析工具解决问题的技能;熟悉SMPP协议;进一步熟悉C++语言。
+  * 收获：掌握了一些使用 **tcpdump** 和 **wireshark** 等网络分析工具解决问题的技能;熟悉**SMPP**,**TCP/IP**协议;进一步熟悉C++语言。
 * 代码质量改进活动
   * 负责产品代码检视。排查并修复代码中易受攻击以及导致进程core掉的点;分析解决现网出现的问题;根据产品特点编写工具检测代码问题。
   * 收获：熟练编写 **python**，**shell** 等脚本解决问题;使用 **valgrind** 的开源工具解决现网问题或做质量加固。
@@ -39,7 +38,7 @@
 按熟练程度排序
 
 * C/C++
-* Linux
+* Linux,syscall
 * Redis
 * Python，Shell
 * Protocolbuffer
