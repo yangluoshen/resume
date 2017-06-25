@@ -44,7 +44,7 @@
 ## 开源项目
 
 * [**FSM**](https://github.com/yangluoshen/FSM): 一款使用C实现的C自动机实现框架，旨在方便C程序员快速构建IPC频繁的项目。
-* [**fdict**](https://github.com/yangluoshen/fdict): 一款C实现的hash table，主要在FSM中运用。
+* [**fdict**](https://github.com/yangluoshen/fdict): 一款C实现的hash table，支持rehash，murmurhash。
 * [**memcheck**](https://github.com/yangluoshen/memcheck): memcheck用于解决某些特定场下的C++内存泄露检测。
 
 ## 技能清单
