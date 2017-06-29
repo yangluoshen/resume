@@ -9,8 +9,8 @@
 #include <fcntl.h>
 #include <string.h>
 
-const uint32_t default_num = 100;
-const uint32_t max_val = 1024;
+const uint32_t default_num = UINT_MAX;
+const uint32_t max_val = SHRT_MAX;
 
 void gen_zero_file(char* fname, uint32_t size)
 {
